@@ -1,6 +1,6 @@
 public class Main {
 
-//    Задание по теме паттерн Iterator
+//  Задание по теме паттерн Iterator
 
     public static void main(String[] args) {
         for (int r : new Randoms(90, 100)) {
